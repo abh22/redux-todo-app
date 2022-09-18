@@ -1,0 +1,14 @@
+
+
+button{
+    color: purple;
+    width: 120px;
+    margin: 10px;
+    margin-bottom: 25px;
+    padding: 5px;
+    background-color: beige;
+    border-radius: 5%;
+}
+.textDone{
+    text-decoration: line-through;
+}
